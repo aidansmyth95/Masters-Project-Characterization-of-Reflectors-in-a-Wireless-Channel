@@ -3,8 +3,8 @@
 Source code and Master's Portfolio titled: "Characterization of Reflectors in a Wireless Channel to Aid Low-Power Indoor Localization"
 
 ## Portfolio ##
-** IEEE Conference Style 6-Page Paper **
-** Full Portfolio (literature review, project plan, testing & results, appendice)
+* IEEE Conference Style 6-Page Paper
+* Full Portfolio (literature review, project plan, testing & results, appendice)
 
 ## Source Code ##
 ### PyVISA ###
